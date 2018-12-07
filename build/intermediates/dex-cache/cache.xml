@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\MUKESH\.android\build-cache\04d68730a6b5cbc77ce926dfc1d6c4847ed89acf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\MUKESH\Downloads\Video\Login_SignUp_ScreenDesgin_Demo\Login_SignUp_ScreenDesgin_Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b97a97917cb658a8a477e23a0234c0b3673162ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MUKESH\Downloads\Video\Login_SignUp_ScreenDesgin_Demo\Login_SignUp_ScreenDesgin_Demo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4fd7f1f9a820ab3b7a276665e7fc0c55196b078c">
+        <dex dex="C:\Users\MUKESH\Downloads\Video\Login_SignUp_ScreenDesgin_Demo\Login_SignUp_ScreenDesgin_Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8cec151ce3364786b8d73aad82c7d5eb8b0b3e49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MUKESH\.android\build-cache\d02c6d6a1e9bb793c7c4105f5f3d4683e5f8daa2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\MUKESH\Downloads\Video\Login_SignUp_ScreenDesgin_Demo\Login_SignUp_ScreenDesgin_Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9dc07bc8c33cee5a8552bed5aba1cd1d73c2c26e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MUKESH\Downloads\Video\Login_SignUp_ScreenDesgin_Demo\Login_SignUp_ScreenDesgin_Demo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\MUKESH\Downloads\Video\Login_SignUp_ScreenDesgin_Demo\Login_SignUp_ScreenDesgin_Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_deb4f99f842279f6aca2eb7857e6d1df51723633\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MUKESH\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\MUKESH\Downloads\Video\Login_SignUp_ScreenDesgin_Demo\Login_SignUp_ScreenDesgin_Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_81f7d451438daf2938ffb8b937ca9545832b0105\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MUKESH\.android\build-cache\d02c6d6a1e9bb793c7c4105f5f3d4683e5f8daa2\output\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\MUKESH\Downloads\Video\Login_SignUp_ScreenDesgin_Demo\Login_SignUp_ScreenDesgin_Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_55f476e4508419123357a0fd149c4e991e651685\classes.dex" />
+    </item>
+
+</items>

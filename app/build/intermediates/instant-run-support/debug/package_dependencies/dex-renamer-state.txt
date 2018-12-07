@@ -1,0 +1,13 @@
+#Wed May 23 22:22:05 IST 2018
+renamed.3=classes.dex
+renamed.2=classes2.dex
+renamed.1=classes3.dex
+renamed.0=classes4.dex
+base.3=C\:\\Users\\MUKESH\\Downloads\\Video\\Login_SignUp_ScreenDesgin_Demo\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_9dc07bc8c33cee5a8552bed5aba1cd1d73c2c26e
+base.2=C\:\\Users\\MUKESH\\Downloads\\Video\\Login_SignUp_ScreenDesgin_Demo\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b97a97917cb658a8a477e23a0234c0b3673162ed
+base.1=C\:\\Users\\MUKESH\\Downloads\\Video\\Login_SignUp_ScreenDesgin_Demo\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_55f476e4508419123357a0fd149c4e991e651685
+base.0=C\:\\Users\\MUKESH\\Downloads\\Video\\Login_SignUp_ScreenDesgin_Demo\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_81f7d451438daf2938ffb8b937ca9545832b0105
+file.3=C\:\\Users\\MUKESH\\Downloads\\Video\\Login_SignUp_ScreenDesgin_Demo\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_9dc07bc8c33cee5a8552bed5aba1cd1d73c2c26e\\classes.dex
+file.2=C\:\\Users\\MUKESH\\Downloads\\Video\\Login_SignUp_ScreenDesgin_Demo\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b97a97917cb658a8a477e23a0234c0b3673162ed\\classes.dex
+file.1=C\:\\Users\\MUKESH\\Downloads\\Video\\Login_SignUp_ScreenDesgin_Demo\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_55f476e4508419123357a0fd149c4e991e651685\\classes.dex
+file.0=C\:\\Users\\MUKESH\\Downloads\\Video\\Login_SignUp_ScreenDesgin_Demo\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_81f7d451438daf2938ffb8b937ca9545832b0105\\classes.dex

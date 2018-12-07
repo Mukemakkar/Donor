@@ -1,0 +1,7 @@
+#Thu May 24 15:29:34 IST 2018
+base.0=C\:\\Users\\MUKESH\\Downloads\\Video\\Login_SignUp_ScreenDesgin_Demo\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_deb4f99f842279f6aca2eb7857e6d1df51723633
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\MUKESH\\Downloads\\Video\\Login_SignUp_ScreenDesgin_Demo\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8cec151ce3364786b8d73aad82c7d5eb8b0b3e49\\classes.dex
+base.1=C\:\\Users\\MUKESH\\Downloads\\Video\\Login_SignUp_ScreenDesgin_Demo\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8cec151ce3364786b8d73aad82c7d5eb8b0b3e49
+file.0=C\:\\Users\\MUKESH\\Downloads\\Video\\Login_SignUp_ScreenDesgin_Demo\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_deb4f99f842279f6aca2eb7857e6d1df51723633\\classes.dex
